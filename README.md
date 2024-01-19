@@ -1,6 +1,6 @@
 # Personal-Diary-Management
 
-**Overview**
+# Overview
 This is a simple console-based Personal Diary Management System implemented in C++. The project allows users to add, view, edit, and delete diary entries. It also provides the functionality to change the login password for added security.
 
 **Features**
